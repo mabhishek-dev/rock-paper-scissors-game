@@ -1,0 +1,18 @@
+#game-controls {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+#reset-score {
+  margin-right: 5px;
+}
+
+#reset-score,
+#auto-play {
+  width: 180px;
+  height: 70px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
